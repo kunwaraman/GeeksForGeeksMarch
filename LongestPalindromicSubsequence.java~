@@ -1,7 +1,4 @@
-/*
-time complexity: O(n^2)
-space complexity: O(n^2)
- */
+
 public class LongestPalindromicSubsequence {
     int dp[][];
     public int longestPalinSubseq(String s) {
